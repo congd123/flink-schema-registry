@@ -1,0 +1,10 @@
+{"namespace": "com.catalog.avro",
+ "type": "record",
+ "name": "Record",
+ "fields": [
+     {"name": "name", "type": "string"},
+     {"name": "age", "type": "int"},
+     {"name": "date", "type": "string"},
+     {"name": "city", "type": "string"}
+ ]
+}
